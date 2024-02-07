@@ -1,0 +1,1 @@
+C:\Users\shmoo\Desktop\C#\Lab 2\Calculator\Calculator\Calculator.csproj;x86
